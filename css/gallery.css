@@ -1,0 +1,81 @@
+img{
+    max-width: 100%;
+}
+.gallery{
+    background-color: #349292;
+    padding: 80px 0;
+
+
+}
+.gallery img{
+    background-color: #cff2ec;
+    padding: 15px;
+    width: 100%;
+    box-shadow: 0 0 15px; rgba(0,0,0,0.3)
+    cursor: pointer;
+    border-radius: 10px 10px 10px 10px;
+   
+
+}
+#gallery-modal .modal-img{
+    width: 100%;
+
+}
+.navbar{
+    background-color: #86626e;
+}
+.navbar-brand{
+    font-size: 25px;
+    color: lightcyan;
+    font-style: normal;
+    font-family: 'Work Sans', sans-serif; 
+}
+.footer{
+    font-size: 18px;
+    color: lightcyan;
+    font-family: 'Work Sans', sans-serif;
+    position: sticky;
+    top: 100%;
+    
+}
+.main-footer{
+    max-width: 100%;
+    background-color: #86626e;
+    
+
+}
+body{
+    background-color: #349292;
+    margin: 0;
+    min-height: 100vh;
+}
+.title-banner{
+    font-size: 18px;
+    color: #ffffff;
+    font-style: normal;
+    font-family: 'Work Sans', sans-serif;
+   
+}
+.border2{
+    line-height: 1.5;
+        border-style: double;
+        border-width: 5px;
+        border-width: 23;
+        padding: 20px;
+        border-color: #ffffff; 
+        border-radius: 10px 10px 10px 10px;
+        background-color: gray;
+    
+}
+.img-hatsune-sign-up{
+    background-color: #cff2ec;
+    padding: 20px;
+    width: 100%;
+}
+.sidebar{
+    font-family: 'Indie Flower', cursive;
+
+}
+.form-title{
+    font-family: 'Indie Flower', cursive;
+}
